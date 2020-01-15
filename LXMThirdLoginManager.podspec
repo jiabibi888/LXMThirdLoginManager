@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "LXMThirdLoginManager"
-  s.version      = "2.4.0"
+  s.version      = "0.2.0"
   s.summary      = "两行代码集成第三方登录."
   s.description  = <<-DESC
 		利用cocoaPods完成集成第三方登录的配置，就是添加各种依赖库和linkFlag，使集成第三方登录变成一两句代码的事。
